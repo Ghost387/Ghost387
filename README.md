@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nick
 - 👀 I’m interested in iOS dev 
 - 🌱 I’m currently learning Swift, CoreML, CreateML, SwiftUI
-- 💞️ I’m looking to collaborate on experienced developers
+- 💞️ I’m looking to collaborate on ML and AI with experienced developers
 - 📫 How to reach me: Telegram - @Mr_Odium or e-mail ghost387@icloud.com
 
 <!---
